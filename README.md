@@ -8,6 +8,8 @@
 ![Platform](https://img.shields.io/badge/Platform-WSL%20%7C%20Linux%20%7C%20Windows-0078D4?style=for-the-badge&logo=linux&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+![Free](https://img.shields.io/badge/Price-100%25%20Free-brightgreen?style=for-the-badge)
+![No Ads](https://img.shields.io/badge/Ads-None-blue?style=for-the-badge)
 
 </div>
 
@@ -27,6 +29,16 @@
 | 🐍 Python | Main language |
 | 📦 qrcode | QR code generation |
 | 🖼️ Pillow | Image handling |
+
+## 💸 Free Forever
+
+Many QR code websites today ask you to pay, show ads, or force you to sign up. This project is different:
+
+- ✅ **100% free**, no hidden costs or premium plans
+- 🚫 **No ads**, no pop-ups, no tracking
+- 🔓 **No sign-up**, no account needed
+- 🔒 **Private**, your links and text stay on your computer
+- 📖 **Open source**, you can read, change and share the code
 
 ## 🚀 Getting Started
 
@@ -42,6 +54,8 @@
 ![Platform](https://img.shields.io/badge/Platform-WSL%20%7C%20Linux%20%7C%20Windows-0078D4?style=for-the-badge&logo=linux&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+![Free](https://img.shields.io/badge/Price-100%25%20Free-brightgreen?style=for-the-badge)
+![No Ads](https://img.shields.io/badge/Ads-None-blue?style=for-the-badge)
 
 </div>
 
@@ -61,6 +75,16 @@
 | 🐍 Python | Main language |
 | 📦 qrcode | QR code generation |
 | 🖼️ Pillow | Image handling |
+
+## 💸 Free Forever
+
+Many QR code websites today ask you to pay, show ads, or force you to sign up. This project is different:
+
+- ✅ **100% free**, no hidden costs or premium plans
+- 🚫 **No ads**, no pop-ups, no tracking
+- 🔓 **No sign-up**, no account needed
+- 🔒 **Private**, your links and text stay on your computer
+- 📖 **Open source**, you can read, change and share the code
 
 ## 🚀 Getting Started
 
