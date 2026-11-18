@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔳 QR Code Generator
+# QR Code Generator
 
 ### Turn any text or link into a QR code in seconds
 
