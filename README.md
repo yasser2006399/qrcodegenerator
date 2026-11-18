@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 <div align="center">
 
 # 🔳 QR Code Generator
@@ -33,8 +32,6 @@ cat > README.md << 'EOF'
 
 ### 1. Clone the repository
 
-cat > README.md << 'EOF'
-cat > README.md << 'EOF'
 <div align="center">
 
 # 🔳 QR Code Generator
