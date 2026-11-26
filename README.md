@@ -82,10 +82,6 @@ qrcodegenerator/
 ```
 
 
-## 📄 License
-
-Distributed under the MIT License.
-
 <div align="center">
 
 ⭐ **If you like this project, give it a star!** ⭐
