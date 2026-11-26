@@ -15,30 +15,7 @@
 
 ---
 
-## ✨ Features
 
-- ⚡ Generate a QR code from any text or URL
-- 🖼️ Saves the QR code as an image
-- 🐍 Simple and lightweight, written in pure Python
-- 🛠️ Easy to customize
-
-## 🧰 Built With
-
-| Tool | Purpose |
-|------|---------|
-| 🐍 Python | Main language |
-| 📦 qrcode | QR code generation |
-| 🖼️ Pillow | Image handling |
-
-## 💸 Free Forever
-
-Many QR code websites today ask you to pay, show ads, or force you to sign up. This project is different:
-
-- ✅ **100% free**, no hidden costs or premium plans
-- 🚫 **No ads**, no pop-ups, no tracking
-- 🔓 **No sign-up**, no account needed
-- 🔒 **Private**, your links and text stay on your computer
-- 📖 **Open source**, you can read, change and share the code
 
 ## 🚀 Getting Started
 
